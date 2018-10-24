@@ -5,5 +5,5 @@ This is a set of related components that make canvas and SVG play together more.
 ```
 Project was previously hosted on Googld Code Archive
 Author: robin.berjon
-License: Artistic License/GPL
+License: Artistic License/GPL (http://dev.perl.org/licenses/)
 ```
